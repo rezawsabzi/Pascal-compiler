@@ -1,0 +1,11 @@
+var
+   x, y:boolean;
+var
+    z: integer = 4;
+
+begin
+ x:= true;
+ y := 5;
+  x:= true;
+  writeln("x:" + (x) + "   Hello World!");
+end.
